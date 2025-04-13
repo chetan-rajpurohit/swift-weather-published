@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/swift-weather-published/static/css/main.cd627526.css",
-    "main.js": "/swift-weather-published/static/js/main.ba77665d.js",
+    "main.css": "/swift-weather-published/static/css/main.115bf180.css",
+    "main.js": "/swift-weather-published/static/js/main.aacdfe0f.js",
     "static/js/453.534073bd.chunk.js": "/swift-weather-published/static/js/453.534073bd.chunk.js",
     "static/media/warning-sign.png": "/swift-weather-published/static/media/warning-sign.3cc92278514c7d94f39e.png",
     "index.html": "/swift-weather-published/index.html",
     "static/media/infinite-spinner.svg": "/swift-weather-published/static/media/infinite-spinner.3f91e8809ab59201827774dac8a1b0ad.svg",
-    "main.cd627526.css.map": "/swift-weather-published/static/css/main.cd627526.css.map",
-    "main.ba77665d.js.map": "/swift-weather-published/static/js/main.ba77665d.js.map",
+    "main.115bf180.css.map": "/swift-weather-published/static/css/main.115bf180.css.map",
+    "main.aacdfe0f.js.map": "/swift-weather-published/static/js/main.aacdfe0f.js.map",
     "453.534073bd.chunk.js.map": "/swift-weather-published/static/js/453.534073bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd627526.css",
-    "static/js/main.ba77665d.js"
+    "static/css/main.115bf180.css",
+    "static/js/main.aacdfe0f.js"
   ]
 }
