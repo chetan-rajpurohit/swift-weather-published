@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "/swift-weather-published/static/css/main.2073e88a.css",
-    "main.js": "/swift-weather-published/static/js/main.691647e4.js",
+    "main.css": "/swift-weather-published/static/css/main.aa79867e.css",
+    "main.js": "/swift-weather-published/static/js/main.c65a6223.js",
     "static/js/453.534073bd.chunk.js": "/swift-weather-published/static/js/453.534073bd.chunk.js",
     "static/media/warning-sign.png": "/swift-weather-published/static/media/warning-sign.3cc92278514c7d94f39e.png",
+    "static/media/thunder.png": "/swift-weather-published/static/media/thunder.796458a8d4fe5269217e.png",
+    "static/media/snow.png": "/swift-weather-published/static/media/snow.9957456da0445490c376.png",
+    "static/media/rainy-day.png": "/swift-weather-published/static/media/rainy-day.7610299be6da6fba0d64.png",
+    "static/media/sunny.png": "/swift-weather-published/static/media/sunny.20e7d4a7d2e24dbce16d.png",
+    "static/media/blizzard.png": "/swift-weather-published/static/media/blizzard.c11d9f7ba96b985e6b9d.png",
+    "static/media/fog.png": "/swift-weather-published/static/media/fog.0dba8a6f6125de37bc2e.png",
+    "static/media/storm.png": "/swift-weather-published/static/media/storm.34ba1304792a31b7d163.png",
+    "static/media/sun.png": "/swift-weather-published/static/media/sun.b972dcf61eb381f03551.png",
+    "static/media/mist.png": "/swift-weather-published/static/media/mist.cffbd3961a9c22f3bfcc.png",
+    "static/media/rain-shower.png": "/swift-weather-published/static/media/rain-shower.2f37e4be8ba1499b7821.png",
+    "static/media/overcast.png": "/swift-weather-published/static/media/overcast.7af7e4ddd61e19448e96.png",
+    "static/media/crescent-moon.png": "/swift-weather-published/static/media/crescent-moon.3bea3d398a25611d421b.png",
+    "static/media/light-rain.png": "/swift-weather-published/static/media/light-rain.a19c7f6db64dc7f90a56.png",
+    "static/media/cloudy.png": "/swift-weather-published/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/cloudy-day.png": "/swift-weather-published/static/media/cloudy-day.3a59f8156f0189400d58.png",
     "index.html": "/swift-weather-published/index.html",
     "static/media/infinite-spinner.svg": "/swift-weather-published/static/media/infinite-spinner.3f91e8809ab59201827774dac8a1b0ad.svg",
-    "main.2073e88a.css.map": "/swift-weather-published/static/css/main.2073e88a.css.map",
-    "main.691647e4.js.map": "/swift-weather-published/static/js/main.691647e4.js.map",
+    "main.aa79867e.css.map": "/swift-weather-published/static/css/main.aa79867e.css.map",
+    "main.c65a6223.js.map": "/swift-weather-published/static/js/main.c65a6223.js.map",
     "453.534073bd.chunk.js.map": "/swift-weather-published/static/js/453.534073bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2073e88a.css",
-    "static/js/main.691647e4.js"
+    "static/css/main.aa79867e.css",
+    "static/js/main.c65a6223.js"
   ]
 }
